@@ -25,6 +25,9 @@
 	<modules>
 		<module>tg_config</module>
 		<module>tg_admin</module>
+		<module>tg_config_yml</module>
+		<module>tg_log</module>
+		
 	</modules>
 	<build>
 		<plugins>

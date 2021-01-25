@@ -1,0 +1,6 @@
+
+#随机端口
+server:
+   port: ${random.int[1024,9999]}
+
+
